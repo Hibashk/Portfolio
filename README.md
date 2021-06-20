@@ -1,4 +1,4 @@
 # Portfolio
 
 
-https://github.com/Hibashk/Portfolio.git
+https://hibashk.github.io/Portfolio/
